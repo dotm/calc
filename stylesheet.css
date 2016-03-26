@@ -44,6 +44,7 @@ body {
     height: 45px;
     width: 50px;
     float: left;
+    cursor: pointer;
     
     border-right: black 1px solid;
     border-bottom: black 1px solid;
